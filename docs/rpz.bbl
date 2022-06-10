@@ -1,0 +1,306 @@
+\begin{thebibliography}{10}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{(#1)}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{rpd}
+\selectlanguageifdefined{russian}
+Положение о порядке разработки и
+  утверждение рабочей программы дисциплины
+  [Электронный ресурс].
+\newblock Режим доступа:
+  \url{https://www.volgmed.ru/uploads/files/2010-11/1180-polozhenie_o_poryadke_razrabotki_i_utverzhdeniya_rabochej_programmy_uchebnoj_discipliny_(kursa).doc}
+  (дата обращения: \today).
+
+\bibitem{fos}
+\selectlanguageifdefined{russian}
+Положение об оценочных материалах (фондах
+  оценочных средств) [Электронный ресурс].
+\newblock Режим доступа: \url{http://www.osu.ru/doc/3825} (дата
+  обращения: \today).
+
+\bibitem{lms}
+\selectlanguageifdefined{russian}
+Learning Management System (LMS) — HSE [Электронный ресурс].
+\newblock Режим доступа:
+  \url{https://www.hse.ru/en/studyspravka/lms_student/} (дата
+  обращения: \today).
+
+\bibitem{ms-word}
+\selectlanguageifdefined{russian}
+Microsoft Word - Word Processing Software | Microsoft 365
+  [Электронный ресурс].
+\newblock Режим доступа:
+  \url{https://www.microsoft.com/en-us/microsoft-365/word} (дата
+  обращения: \today).
+
+\bibitem{standard}
+\selectlanguageifdefined{russian}
+Образовательные стандарты | МГТУ им. Н. Э.
+  Баумана [Электронный ресурс].
+\newblock Режим доступа: \url{https://bmstu.ru/plain/eduStandarts/}
+  (дата обращения: \today).
+
+\bibitem{bmstu}
+\selectlanguageifdefined{russian}
+МГТУ им. Н. Э. Баумана -- Официальный сайт
+  [Электронный ресурс].
+\newblock Режим доступа: \url{https://bmstu.ru/} (дата
+  обращения: \today).
+
+\bibitem{database}
+\selectlanguageifdefined{russian}
+Что такое база данных | Oracle Россия и СНГ
+  [Электронный ресурс].
+\newblock Режим доступа:
+  \url{https://www.oracle.com/ru/database/what-is-database/} (дата
+  обращения: \today).
+
+\bibitem{subd}
+\selectlanguageifdefined{russian}
+Что такое СУБД - RU-CENTER [Электронный ресурс].
+\newblock Режим доступа:
+  \url{https://www.nic.ru/help/chto-takoe-subd_8580.html} (дата
+  обращения: \today).
+
+\bibitem{microservice}
+\selectlanguageifdefined{russian}
+Что такое микросервисная архитектура:
+  простое объяснение | MCS Mail.ru [Электронный
+  ресурс].
+\newblock Режим доступа:
+  \url{https://mcs.mail.ru/blog/prostym-jazykom-o-mikroservisnoj-arhitekture}
+  (дата обращения: \today).
+
+\bibitem{race-condition}
+\selectlanguageifdefined{russian}
+Race conditions and deadlocks - Microsoft Docs [Электронный
+  ресурс].
+\newblock Режим доступа:
+  \url{https://docs.microsoft.com/en-us/troubleshoot/dotnet/visual-basic/race-conditions-deadlocks}
+  (дата обращения: \today).
+
+\bibitem{OLTP}
+\selectlanguageifdefined{russian}
+What is OLTP? | IBM [Электронный ресурс].
+\newblock Режим доступа: \url{https://www.ibm.com/cloud/learn/oltp}
+  (дата обращения: \today).
+
+\bibitem{olap}
+\selectlanguageifdefined{russian}
+What is OLAP? | IBM [Электронный ресурс].
+\newblock Режим доступа: \url{https://www.ibm.com/cloud/learn/olap}
+  (дата обращения: \today).
+
+\bibitem{nosql}
+\selectlanguageifdefined{russian}
+Что такое NoSQL? | Amazon AWS [Электронный ресурс].
+\newblock Режим доступа: \url{https://aws.amazon.com/ru/nosql/}
+  (дата обращения: \today).
+
+\bibitem{lru}
+\selectlanguageifdefined{russian}
+LRU, метод вытеснения из кэша | Habr
+  [Электронный ресурс].
+\newblock Режим доступа: \url{https://habr.com/ru/post/136758/}
+  (дата обращения: \today).
+
+\bibitem{er-chen}
+\selectlanguageifdefined{russian}
+Chen~Peter Pin-Shan. The Entity-Relationship Model—toward a Unified View of
+  Data~// ACM Trans. Database Syst.
+\newblock New York, NY, USA, 1976.  mar.
+\newblock Т.~1, {№}~1.
+\newblock {с.}~9–36.
+
+\bibitem{backref}
+\selectlanguageifdefined{russian}
+Linking Relationships with Backref [Электронный ресурс].
+\newblock Режим доступа:
+  \url{https://docs.sqlalchemy.org/en/14/orm/backref.html} (дата
+  обращения: \today).
+
+\bibitem{clojure}
+\selectlanguageifdefined{russian}
+Clojure [Электронный ресурс].
+\newblock Режим доступа: \url{https://clojure.org/} (дата
+  обращения: \today).
+
+\bibitem{cljs}
+\selectlanguageifdefined{russian}
+ClojureScript [Электронный ресурс].
+\newblock Режим доступа: \url{https://clojurescript.org/} (дата
+  обращения: \today).
+
+\bibitem{postgresql}
+\selectlanguageifdefined{russian}
+PostgreSQL: Документация. [Электронный ресурс].
+\newblock Режим доступа:
+  \url{https://postgrespro.ru/docs/postgresql/} (дата обращения:
+  \today).
+
+\bibitem{postgresql-fact}
+\selectlanguageifdefined{russian}
+PostgreSQL: вчера, сегодня, завтра [Электронный
+  ресурс].
+\newblock Режим доступа:
+  \url{https://postgrespro.ru/blog/media/17768} (дата обращения:
+  \today).
+
+\bibitem{acid}
+\selectlanguageifdefined{russian}
+Транзакции, ACID, CAP | GeekBrains [Электронный
+  ресурс].
+\newblock Режим доступа:
+  \url{https://gb.ru/posts/acid_cap_transactions} (дата обращения:
+  \today).
+
+\bibitem{mvcc}
+\selectlanguageifdefined{russian}
+Documentation: 12: 13.1. Introduction - PostgreSQL [Электронный
+  ресурс].
+\newblock Режим доступа:
+  \url{https://www.postgresql.org/docs/12/mvcc-intro.html} (дата
+  обращения: \today).
+
+\bibitem{r-lock}
+\selectlanguageifdefined{russian}
+Применение блокировок чтения/записи | IBM
+  [Электронный ресурс].
+\newblock Режим доступа:
+  \url{https://www.ibm.com/docs/ru/aix/7.2?topic=programming-using-readwrite-locks}
+  (дата обращения: \today).
+
+\bibitem{oracle}
+\selectlanguageifdefined{russian}
+SQL Language | Oracle[Электронный ресурс].
+\newblock Режим доступа:
+  \url{https://www.oracle.com/database/technologies/appdev/sql.html} (дата
+  обращения: \today).
+
+\bibitem{oracle-company}
+\selectlanguageifdefined{russian}
+Oracle | Integrated Cloud Applications and Platform Services
+  [Электронный ресурс].
+\newblock Режим доступа: \url{https://www.oracle.com/index.html}
+  (дата обращения: \today).
+
+\bibitem{oracle-popular}
+\selectlanguageifdefined{russian}
+DB-Engines Ranking [Электронный ресурс].
+\newblock Режим доступа: \url{https://db-engines.com/en/ranking}
+  (дата обращения: \today).
+
+\bibitem{mysql}
+\selectlanguageifdefined{russian}
+MySQL Database Service is a fully managed database service to deploy
+  cloud-native applications. [Электронный ресурс].
+\newblock Режим доступа: \url{https://www.mysql.com/} ((дата
+  обращения: \today).
+
+\bibitem{innodb}
+\selectlanguageifdefined{russian}
+MySQL Reference Manual 8.0: The InnoDB Storage Enginee [Электронный
+  ресурс].
+\newblock Режим доступа:
+  \url{https://dev.mysql.com/doc/refman/8.0/en/innodb-storage-engine.html}
+  (дата обращения: \today).
+
+\bibitem{myisam}
+\selectlanguageifdefined{russian}
+MySQL Reference Manual 16.2: The MyISAM Storage Engine [Электронный
+  ресурс].
+\newblock Режим доступа:
+  \url{https://dev.mysql.com/doc/refman/8.0/en/myisam-storage-engine.html}
+  (дата обращения: \today).
+
+\bibitem{datomic}
+\selectlanguageifdefined{russian}
+Overview | Datomic [Электронный ресурс].
+\newblock Режим доступа:
+  \url{https://docs.datomic.com/on-prem/overview/overview.html} (дата
+  обращения: \today).
+
+\bibitem{datalog}
+\selectlanguageifdefined{russian}
+Datalog: Deductive Database Programming [Электронный ресурс].
+\newblock Режим доступа:
+  \url{https://docs.racket-lang.org/datalog/} (дата обращения:
+  \today).
+
+\bibitem{redis}
+\selectlanguageifdefined{russian}
+Redis is an open source (BSD licensed), in-memory data structure store, used as
+  a database, cache, and message broker [Электронный ресурс].
+\newblock Режим доступа: \url{https://redis.io/} (дата
+  обращения: \today).
+
+\bibitem{master-slave}
+\selectlanguageifdefined{russian}
+Tech Confronts Its Use of the Labels <<Master>> and <<Slave>>
+  [Электронный ресурс].
+\newblock Режим доступа:
+  \url{https://www.wired.com/story/tech-confronts-use-labels-master-slave/}
+  (дата обращения: \today).
+
+\bibitem{rpc}
+\selectlanguageifdefined{russian}
+Remote Procedure Call -- IBM Documentation [Электронный
+  ресурс].
+\newblock Режим доступа:
+  \url{https://www.ibm.com/docs/en/aix/7.1?topic=concepts-remote-procedure-call}
+  (дата обращения: \today).
+
+\bibitem{kali}
+\selectlanguageifdefined{russian}
+Our Most Advanced Penetration Testing Distribution, Ever.
+  [Электронный ресурс].
+\newblock Режим доступа: \url{https://kali.org/} (дата
+  обращения: \today).
+
+\bibitem{linux}
+\selectlanguageifdefined{russian}
+Linux -- Википедия [Электронный ресурс].
+\newblock Режим доступа: \url{https://ru.wikipedia.org/wiki/Linux}
+  (дата обращения: \today).
+
+\bibitem{swap}
+\selectlanguageifdefined{russian}
+SWAP File Definition -- Tech definitions [Электронный ресурс].
+\newblock Режим доступа:
+  \url{https://techterms.com/definition/swap_file} (дата
+  обращения: \today).
+
+\bibitem{ssd}
+\selectlanguageifdefined{russian}
+SSD Definition -- Tech definitions [Электронный ресурс].
+\newblock Режим доступа: \url{https://techterms.com/definition/ssd}
+  (дата обращения: \today).
+
+\bibitem{evo}
+\selectlanguageifdefined{russian}
+Samsung NVMe 980 M.2 512GB [Электронный ресурс].
+\newblock Режим доступа:
+  \url{https://www.samsung.com/ru/memory-storage/nvme-ssd/980-480gb-nvme-pcie-gen-3-mz-v8v500bw/}
+  (дата обращения: \today).
+
+\bibitem{intel}
+\selectlanguageifdefined{russian}
+Intel Processors [Электронный ресурс].
+\newblock Режим доступа:
+  \url{https://www.intel.com/content/www/us/en/products/processors/core/i5-processors.html}
+  (дата обращения: \today).
+
+\bibitem{kuber}
+\selectlanguageifdefined{russian}
+Что такое Kubernetes | Kubernetes [Электронный
+  ресурс].
+\newblock Режим доступа:
+  \url{https://kubernetes.io/ru/docs/concepts/overview/what-is-kubernetes/}
+  (дата обращения: \today).
+
+\end{thebibliography}

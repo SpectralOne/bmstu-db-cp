@@ -1,0 +1,38 @@
+% !TeX TXS-program:compile = txs:///lualatex/[--shell-escape]
+
+\include{preamble.inc.tex}
+
+\begin{document}
+	
+\include{tex/title.tex}
+\pagenumbering{gobble}
+%\include{tex/tz.tex}
+\normalsize
+\pagenumbering{arabic}
+\setcounter{page}{2}
+
+\include{tex/abstract}
+
+\renewcommand{\contentsname}{\normalsize\bfseries\centering СОДЕРЖАНИЕ}
+\tableofcontents
+\clearpage
+
+
+\include{tex/intro}
+\include{tex/analysis}
+\include{tex/design}
+\include{tex/impl}
+\include{tex/research}
+\include{tex/conclusion}
+
+% говно литература для тест ВРК
+\include{tex/bibliography}
+
+% норм по феншую
+%\bibliographystyle{utf8gost705u}
+%\renewcommand{\refname}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}
+%\bibliography{bibliography}
+
+\include{tex/appendix}
+
+\end{document}
